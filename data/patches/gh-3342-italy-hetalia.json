@@ -1,0 +1,63 @@
+{
+	"id": -1,
+	"name": "Italy (Hetalia)",
+	"description": "Italy is a main character in the series Hetalia. He is the representation of the northern part of Italy. He is also known as Feliciano Vargas.\n\nHetalia: Axis Powers is a Japanese webcomic, later adapted as a manga and an anime series, by Hidekaz Himaruya. The series' main presentation is as an comedic allegory of political and historic events as well as more general cultural comparisons and stereotypes. Characters are personifications of countries and regions.",
+	"links": {
+		"website": [
+			"https://hetalia.fandom.com/wiki/North_Italy"
+		],
+		"subreddit": [
+			"hetalia"
+		]
+	},
+	"path": {
+		"249": [
+			[
+				-1,
+				550
+			],
+			[
+				-1,
+				572
+			],
+			[
+				26,
+				572
+			],
+			[
+				26,
+				554
+			],
+			[
+				25,
+				554
+			],
+			[
+				25,
+				553
+			],
+			[
+				24,
+				553
+			],
+			[
+				24,
+				551
+			],
+			[
+				23,
+				551
+			],
+			[
+				23,
+				550
+			]
+		]
+	},
+	"center": {
+		"249": [
+			13,
+			561
+		]
+	}
+}
